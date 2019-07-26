@@ -12,6 +12,7 @@ The Assignment's goals are :
 
 we made a function converting rgb images to greyscale images and vice versa
 
+
 ```Python
 def imReadAndConvert(filename: str, representation: int)-> np.ndarray:
     im = cv2.imread(filename)
@@ -39,14 +40,22 @@ def gray2rgb(gray):
 
 ```
 
+
+
 **Example** : image convertion from rgb to grey
 >Lui the rabbit
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/rgb.PNG)
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/to_grey.PNG)
 
 ## Histograms
-you can also see the picture histogram (pixels intensity)
+you can also see the picture's histogram (pixels intensity)
+
+
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/CDF_HISTOGRAM.PNG)
+
+
 ## Histogram Equalization
 The program is also capable of improving picture's contrast using וniform dispersal of all grey levels
+
+
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/lol.jpg)
