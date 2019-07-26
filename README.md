@@ -55,7 +55,7 @@ you can also see the picture's histogram (pixels intensity)
 
 
 ## Histogram Equalization
-The program is also capable of improving picture's contrast using וniform dispersal of all grey levels
+The program is also capable of improving picture's contrast using uniform dispersal of all grey levels
 
 
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/lol.jpg)
