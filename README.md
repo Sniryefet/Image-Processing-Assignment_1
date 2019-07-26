@@ -1,4 +1,4 @@
-#Exercise 1: Image Representations & Intensity Transformations &Quantization
+# Exercise 1: Image Representations & Intensity Transformations &Quantization
 
 **Overview**
 The Assignment's goals are :
@@ -44,9 +44,9 @@ def gray2rgb(gray):
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/rgb.PNG)
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/to_grey.PNG)
 
-##Histograms
+## Histograms
 you can also see the picture histogram (pixels intensity)
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/CDF_HISTOGRAM.PNG)
-##Histogram Equalization
+## Histogram Equalization
 The program is also capable of improving picture's contrast using וniform dispersal of all grey levels
 ![](https://github.com/Sniryefet/Image-Processing-Assignment_1/blob/master/pictures/lol.jpg)
